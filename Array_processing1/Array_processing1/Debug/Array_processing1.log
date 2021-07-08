@@ -1,0 +1,6 @@
+﻿  Array_processing1.cpp
+C:\Array_processing\Array_processing1\Array_processing1\Array_processing1.cpp(39,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Array_processing\Array_processing1\Array_processing1\Array_processing1.cpp(52,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Array_processing\Array_processing1\Array_processing1\Array_processing1.cpp(43,18): warning C4101: s: неиспользованная локальная переменная
+C:\Array_processing\Array_processing1\Array_processing1\Array_processing1.cpp(33): warning C4172: возвращение адреса локальной или временной переменной : i
+  Array_processing1.vcxproj -> C:\Array_processing\Array_processing1\Debug\Array_processing1.exe
